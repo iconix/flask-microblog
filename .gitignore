@@ -1,0 +1,10 @@
+*.py[cod]
+
+# Virtualenv
+.Python
+bin
+lib
+include
+
+# Temp files
+*~
